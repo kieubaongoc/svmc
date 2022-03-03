@@ -1,0 +1,6 @@
+﻿  Robot2.cpp
+D:\Documents\Visual Studio\Test\Project1\Robot2.cpp(122,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\Visual Studio\Test\Project1\Robot2.cpp(123,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\Visual Studio\Test\Project1\Robot2.cpp(124,11): warning C4477: 'printf' : format string '%0.3f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+D:\Documents\Visual Studio\Test\Project1\Robot2.cpp(124,11): warning C4477: 'printf' : format string '%0.3f' requires an argument of type 'double', but variadic argument 3 has type 'int'
+  Project1.vcxproj -> D:\Documents\Visual Studio\Test\Project1\x64\Debug\Project1.exe
